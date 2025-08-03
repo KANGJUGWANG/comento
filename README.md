@@ -21,17 +21,17 @@
 # 실행 방법
 
 사전 준비 : 
-- 환경 설정(실행했던 환경)
-Python version: 3.11.13
-CUDA version: Not available
-cuDNN: 90701
-PyTorch: 2.7.1+cu128
-Ultralytics YOLO: 8.3.158
-Streamlit: 1.46.1
-FastAPI: 0.115.14
-GPU: NVIDIA GeForce RTX 3070 Laptop GPU (8GB)
-OS: Windows 10 / Windows-10-10.0.26100-SP0
-  
+- 환경 설정(실행했던 환경)   
+Python version: 3.11.13   
+CUDA version: Not available   
+cuDNN: 90701   
+PyTorch: 2.7.1+cu128   
+Ultralytics YOLO: 8.3.158   
+Streamlit: 1.46.1   
+FastAPI: 0.115.14   
+GPU: NVIDIA GeForce RTX 3070 Laptop GPU (8GB)   
+OS: Windows 10 / Windows-10-10.0.26100-SP0   
+     
 - 데이터 준비
 ** 합성 데이터 다운로드
 ** https://dacon.io/competitions/official/236107/overview/description
